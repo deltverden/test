@@ -1,1 +1,3 @@
 git rebase
+git cherry-pick
+hello squash
